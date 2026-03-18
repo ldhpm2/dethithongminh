@@ -1726,7 +1726,7 @@ const App: React.FC = () => {
             <header className="bg-white py-4 shadow-md border-b-2 border-gray-100">
                 <div className="max-w-[1125px] mx-auto px-4 text-center">
                     <h1 className="text-2xl font-bold text-red-800">Tạo Đề Thi Thông Minh</h1>
-                    <p className="text-sm font-medium text-purple-800 mt-1">Tác giả: Thầy Hiển | SĐT: 0966000224</p>
+                    <p className="text-sm font-medium text-purple-800 mt-1">Tác giả: Lương Đình Hùng | SĐT: 0986 282 414</p>
                 </div>
             </header>
 
